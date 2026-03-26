@@ -37,4 +37,4 @@ Next: gradient descent from scratch in NumPy · scikit-learn pipelines · Kaggle
 ---
 
 ### Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruthreshwaran-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ruthreshwaran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruthreshwaran-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ruthreshwaran-s)
